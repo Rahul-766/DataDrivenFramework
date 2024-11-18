@@ -1,0 +1,6 @@
+INFO    2024-11-18 10:28:15,412 [main] com.w2a.base.TestBase  - Starting Add customer test case
+INFO    2024-11-18 10:28:20,524 [main] com.w2a.base.TestBase  -  Add customer test case completed
+INFO    2024-11-18 10:28:20,537 [main] com.w2a.base.TestBase  - Starting Add customer test case
+INFO    2024-11-18 10:28:25,217 [main] com.w2a.base.TestBase  -  Add customer test case completed
+INFO    2024-11-18 10:28:25,222 [main] com.w2a.base.TestBase  - Starting Add customer test case
+INFO    2024-11-18 10:28:29,879 [main] com.w2a.base.TestBase  -  Add customer test case completed
